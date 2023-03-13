@@ -1,0 +1,19 @@
+.card{
+	padding: 20px;
+	margin: 20px 0px;
+	display:flex;
+	align-items: center;
+	justify-content: space-between;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+	border-radius: 6px;
+	background: rgb(255, 255, 255);
+}
+
+.card img {
+	width: 150px;
+	border-radius: 6px;
+}
+
+
+
+
